@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Maxi 👨‍💻
 
-<!--
-**MaxiSalto/MaxiSalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Analista de Datos en transición hacia la Programación.**  
+📊 Me especializo en transformar datos en conocimiento para la toma de decisiones.  
+💻 Actualmente estoy explorando proyectos en Python, SQL y APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tecnologías que utilizo:**
+- 🖩 **Excel**
+- 📊 **Power BI**
+- ☁️ **Qlik Cloud**
+- 💾 **SQL (DB2, MySQL)**
+- 🐍 **Python**
+- 🌐 **APIs**
+
+---
+
+## 🚀 **En qué estoy trabajando:**
+- Automatización de reportes financieros
+- Visualización de datos interactiva
+- Integración de APIs externas en proyectos propios
+- Dashboards en Qlik, Power BI y Python
+
+---
+
+📚 **Siempre aprendiendo:** Me considero un autodidacta en constante evolución. Estoy abierto a sugerencias y feedback que puedan ayudarme a mejorar.
+
+🤝 **¿Colaboramos?**  
+Si tienes algún proyecto interesante o quieres aportar ideas, ¡contáctame!
+
+✨ "Agregar Valor."
