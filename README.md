@@ -10,7 +10,7 @@
 - 🖩 **Excel**
 - 📊 **Power BI**
 - ☁️ **Qlik Cloud**
-- 💾 **SQL (DB2, MySQL)**
+- 💾 **SQL (DB2, SQL Server)**
 - 🐍 **Python**
 - 🌐 **APIs**
 
