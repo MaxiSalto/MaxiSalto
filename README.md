@@ -2,7 +2,7 @@
 
 🎯 **Analista de Datos en transición hacia la Programación.**  
 📊 Me especializo en transformar datos en conocimiento para la toma de decisiones.  
-💻 Actualmente estoy explorando proyectos en Python, SQL y APIs.
+💻 Actualmente estoy explorando proyectos en Python y APIs.
 
 ---
 
@@ -29,4 +29,4 @@
 🤝 **¿Colaboramos?**  
 Si tienes algún proyecto interesante o quieres aportar ideas, ¡contáctame!
 
-✨ "Agregar Valor."
+✨ "Objetivo: Agregar Valor."
